@@ -3,7 +3,7 @@ import React from "react";
 import "./Footer.css";
 
 const Footer = () => {
-  return <div id="Footer">MMD CORE</div>;
+  return <div id="Footer">Footer</div>;
 };
 
 export default Footer;

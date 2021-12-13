@@ -143,11 +143,11 @@ html {
   height: 100%;
 }
 
-.Quentin {
-  font-family: "Quentin";
+@font-face {
+  font-family: "YdestreetL";
+  src: url("/font/YdestreetL.woff2") format("woff2");
 }
 
 .YdestreetL {
-  font-family: "Ydestreet";
-  font-weight: 300;
+  font-family: "YdestreetL";
 }

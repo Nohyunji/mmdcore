@@ -143,36 +143,11 @@ html {
   height: 100%;
 }
 
-/* .Bebas {
-  font-family: "Bebas Neue", cursive;
-}
-
-.Noto-Thin {
-  font-family: "Noto Sans KR", sans-serif;
-}
-
-.Noto-Bold {
-  font-family: "Noto Sans KR", sans-serif;
-  font-weight: 700;
-} */
-
-@font-face {
-  font-family: "YdestreetL";
-  src: url("/font/YdestreetL.otf") format("woff2");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "YdestreetB";
-  src: url("/font/YdestreetB.otf") format("woff2");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
+.Quentin {
   font-family: "Quentin";
-  src: url("/font/Quentin.otf") format("woff2");
-  font-weight: normal;
-  font-style: normal;
+}
+
+.YdestreetL {
+  font-family: "Ydestreet";
+  font-weight: 300;
 }
